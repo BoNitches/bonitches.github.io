@@ -1,2 +1,3 @@
 # ATLGames
-The Private REPO for atlgames.cf
+Forked REPO of ATLGames by rptjerry
+THIS IS NOT THE ORIGINAL ATLGAMES PROJECT
