@@ -6,8 +6,8 @@ function changeSub(num) {
 
 
 var say = [];
-say[0] = "48 hours with justin bieber or unlimited hours of free games: you choose";
-say[1] = "ok but where do you actually store 1000 bottles of baby oil";
+say[0] = "carti aint dropping";
+say[1] = "bo nitches";
 say[2] = "diddy rhymes with skibidi";
 say[3] = "his music lk fire tho"
 // pick a random greeting
